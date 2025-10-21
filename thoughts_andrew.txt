@@ -1,6 +1,0 @@
-Adding astrosystes, and adding microglia phinotypes, to start. M1/M2
-
-- Seeing how the different types of microglia are moving
-- Seeing what different types of things are excreted by microglia under different phinotypes
-
-See page 8 and 9 from sela for M1/M2
