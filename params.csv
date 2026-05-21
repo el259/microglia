@@ -1,0 +1,15 @@
+param,value
+steps,100
+m0,3
+m1,10
+m2,10
+h_neurons,30
+d_neurons,7
+eat,0.4
+sense,0.3
+damage,80
+ndist,4
+radius,7
+pro_decay_d,0.4
+anti_decay_d,0.4
+microglia_ld_pro_inflam_boost_d,0.2
